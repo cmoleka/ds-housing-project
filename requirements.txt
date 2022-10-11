@@ -1,0 +1,7 @@
+pandas_profiling
+sklearn
+folium
+dash
+plotly
+sqlalchemy
+python-dotenv
